@@ -1,2 +1,2 @@
-# Zummit-Internship-Taks
-Learning-Path
+# Zummit-Internship
+Learning-Path-Task
