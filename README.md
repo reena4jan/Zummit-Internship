@@ -1,2 +1,2 @@
-# Zummit-Internship
-Jr. Data Scientist
+# Zummit-Internship-Taks
+Learning-Path
